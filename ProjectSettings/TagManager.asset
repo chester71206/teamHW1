@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Window
+    uniqueID: 641315081
+    locked: 0
+  - name: Decorations
+    uniqueID: 686402117
+    locked: 0
+  - name: Player
+    uniqueID: 3956409863
+    locked: 0
+  - name: Table
+    uniqueID: 1511253345
+    locked: 0

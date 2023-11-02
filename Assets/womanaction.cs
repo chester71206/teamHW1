@@ -17,8 +17,8 @@ public class womanaction : MonoBehaviour
     private float food_move_distance=28;  //食物放到盤子的距離
     private bool istaking_food=false;
     private GameObject targetFood;
-    public float targetFoodposition_y=33.4f;
-    public float targetFoodposition_x=113.5f;
+    public float targetFoodposition_y=35.6f;
+    public float targetFoodposition_x=95.7f;
     public Vector3 targetFood_scale = new Vector3(30f, 30f, 1.0f); // 新的比例
     private int copiedFoodindex=-1;
     private int randomIndex;
